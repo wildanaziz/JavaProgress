@@ -2,6 +2,7 @@
 Repo ini merupakan progress belajarku di kelas terbuka
 
 **31 Maret 2021**
+
 Belajar Java Bahasa Indonesia [Dasar]. (Progres 25%)
 
 * Belajar tentang apa itu Java dan alasan menggunakannya.
@@ -11,6 +12,7 @@ Belajar Java Bahasa Indonesia [Dasar]. (Progres 25%)
 * Variabel, Assignment dan deklarasi
 
 **32 Maret 2021**
+
 Belajar Java Bahasa Indonesia [Dasar]. (Progres 50%)
 
 * Tipe data fundamental atau primitive
