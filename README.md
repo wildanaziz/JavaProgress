@@ -10,3 +10,14 @@ Belajar Java Bahasa Indonesia [Dasar]. (Progres 25%)
 * Pengenalan print dan alur eksekusi
 * Variabel, Assignment dan deklarasi
 
+32 Maret 2021
+Belajar Java Bahasa Indonesia [Dasar]. (Progres 50%)
+
+* Tipe data fundamental atau primitive
+* Operator Aritmatika
+* Konversi tipe data numeric
+* Operator Unary, Assignment, Logika, Komparasi, Bitwise
+* input Scanner
+* If Else Statement If Bersarang
+* Switch Case
+* Ternary Operator
