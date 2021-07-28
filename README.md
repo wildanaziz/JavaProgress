@@ -11,7 +11,7 @@ Belajar Java Bahasa Indonesia [Dasar]. (Progres 25%)
 * Pengenalan print dan alur eksekusi
 * Variabel, Assignment dan deklarasi
 
-**32 Maret 2021**
+**1 April 2021**
 
 Belajar Java Bahasa Indonesia [Dasar]. (Progres 50%)
 
@@ -23,3 +23,13 @@ Belajar Java Bahasa Indonesia [Dasar]. (Progres 50%)
 * If Else Statement If Bersarang
 * Switch Case
 * Ternary Operator
+
+** 10 April 2021**
+
+**20 Juni 2021**  
+
+Belajar Java Bahasa Indonesia [Dasar] dan OOP. (Progres 100%)
+
+* Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+* Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
+* Berlatih dengan membuat program CRUD.
