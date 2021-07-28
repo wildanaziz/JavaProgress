@@ -24,9 +24,7 @@ Belajar Java Bahasa Indonesia [Dasar]. (Progres 50%)
 * Switch Case
 * Ternary Operator
 
-** 10 April 2021**
-
-**20 Juni 2021**  
+**10 April 2021**  
 
 Belajar Java Bahasa Indonesia [Dasar] dan OOP. (Progres 100%)
 
